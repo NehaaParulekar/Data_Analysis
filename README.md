@@ -10,6 +10,12 @@ This repository contains a collection of end-to-end data analysis projects focus
 
 ## 📌 Projects Included
 
+- [Walmart Sales Analysis](./walmart-analysis)
+- [Yulu Bike Analysis](./yulu-analysis)
+- [Superstore Analysis](./superstore-analysis)
+- [Aerofit Analysis](./aerofit-analysis)
+
+
 ### 🛒 Walmart Sales Analysis
 
 * Analyzes sales, profit, and customer trends
