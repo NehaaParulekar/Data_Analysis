@@ -135,12 +135,6 @@ git clone https://github.com/your-username/Yulu-Bike-Analysis.git
 
 ---
 
-## 👩‍💻 Author
-
-**Neha Parulekar**
-Assistant Professor | Aspiring Data Analyst
-
----
 
 ## ⭐ If you like this project
 
