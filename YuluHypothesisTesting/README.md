@@ -1,5 +1,6 @@
+<div align=center>
 # 🚴 Yulu Bike Sharing Demand Analysis
-
+</div>
 ## 📌 Project Overview
 
 This project analyzes the **Yulu Bike Sharing dataset** to understand the key factors influencing bike rental demand. Using **statistical analysis, SQL, and Python-based EDA**, the goal is to extract actionable business insights that can help optimize operations and improve customer experience.
